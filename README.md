@@ -4,6 +4,14 @@
 
 Access all the resources links in this road map using - [Roadmap Links](https://whimsical.com/codeforces-candidate-master-roadmap-by-love-babbar-CiXPPD3CnwoXPr2d8Ajx1h)
 
+## Resources for CP (Codeforces)
+
+1. [Guide to Competitive Programming - Springer]()
+2. [CSES Problem Set - 200 problems](https://cses.fi/problemset/)
+3. [CP Algorithms](https://cp-algorithms.com/)
+4. [CP Series Topic Wise](https://www.youtube.com/watch?v=AgrV4QHZKl4&list=PL4PCksYQGLJOcaPLgeMFaxaHigPFjBuTG)
+
+
 # CP-Books
 Competitive Programming Books 
 
