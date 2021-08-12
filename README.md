@@ -2,8 +2,6 @@
 Competitive Programming Books 
 
 # Books
-https://www.youtube.com/playlist?list=PLFGAKXI_ggLtLUcQUXcdDr3M-UZ4LbUS7&disable_polymer=true
-https://www.youtube.com/watch?v=KNl04Tknw-U&list=PLFGAKXI_ggLtLUcQUXcdDr3M-UZ4LbUS7
 
 #Elements of Programming Interviews
 
