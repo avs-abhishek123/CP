@@ -6,7 +6,7 @@ Access all the resources links in this road map using - [Roadmap Links](https://
 
 ## Resources for CP (Codeforces)
 
-1. [Guide to Competitive Programming - Springer]()
+1. [Guide to Competitive Programming - Springer](https://github.com/avs-abhishek123/CP/blob/main/CP-Books/Guide%20to%20Competitive%20Programming/Guide%20to%20Competitive%20Programming%20-%20springer.pdf)
 2. [CSES Problem Set - 200 problems](https://cses.fi/problemset/)
 3. [CP Algorithms](https://cp-algorithms.com/)
 4. [CP Series Topic Wise](https://www.youtube.com/watch?v=AgrV4QHZKl4&list=PL4PCksYQGLJOcaPLgeMFaxaHigPFjBuTG)
