@@ -2,6 +2,8 @@
 
 <img src="https://github.com/avs-abhishek123/CP/blob/main/Codeforces%20-%20Candidate%20Master%20Roadmap%20%5Bby%20Love%20Babbar%5D.png">
 
+Access all the resources links in this road map using - [Roadmap Links](https://whimsical.com/codeforces-candidate-master-roadmap-by-love-babbar-CiXPPD3CnwoXPr2d8Ajx1h)
+
 # CP-Books
 Competitive Programming Books 
 
